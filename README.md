@@ -4,6 +4,10 @@ Color theme for [Fluent Terminal](https://github.com/felixse/FluentTerminal).
 
 Made in 10 minutes, but with love 😚
 
+## One Small Disclaimer
+
+Since I don't know much about JSON, you may need to modify it to make your terminal accept the color theme.
+
 ## Colors 🎨
 
 | **HEX Code** | **Color** |

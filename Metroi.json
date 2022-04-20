@@ -1,0 +1,23 @@
+{
+  "background": "#222222",
+  "black": "#222222",
+  "blue": "#1050FF",
+  "brightBlack": "#555555",
+  "brightBlue": "#0050FF",
+  "brightCyan": "#00FFFF",
+  "brightGreen": "#00FF50",
+  "brightPurple": "#FF50FF",
+  "brightRed": "#FF3C3C",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#FFFF55",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#50FFFF",
+  "foreground": "#FFFFFF",
+  "green": "#00FF50",
+  "name": "Metroi",
+  "purple": "#FF50FF",
+  "red": "#CC3030",
+  "selectionBackground": "#555555",
+  "white": "#E5E5E5",
+  "yellow": "#FFFF50"
+}

@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "",
+  "Author": "aiivy782",
+  "Colors": {
+    "Foreground": "#ffffff",
+    "Background": "#222222",
+    "Cursor": "#ffffff",
+    "CursorAccent": "#222222",
+    "Selection": "rgba(85, 85, 85, 0.5)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#222222",
+    "Red": "#CC3030",
+    "Green": "#00FF50",
+    "Yellow": "#FFFF50",
+    "Blue": "#1050FF",
+    "Magenta": "#FF50FF",
+    "Cyan": "#50FFFF",
+    "White": "#E5E5E5",
+    "BrightBlack": "#555555",
+    "BrightRed": "#FF3C3C",
+    "BrightGreen": "#00FF50",
+    "BrightYellow": "#FFFF55",
+    "BrightBlue": "#0050FF",
+    "BrightMagenta": "#FF50FF",
+    "BrightCyan": "#00FFFF",
+    "BrightWhite": "#FFFFFF"
+  },
+  "BackgroundImage": null
+}

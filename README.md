@@ -12,35 +12,35 @@ Since I don't know much about JSON, you may need to modify it to make your termi
 
 ## Colors 🎨
 
-| **HEX Code** | **Color** |
-| -------- | ----- |
-| #FFFFFF | White |
-| #222222 | Dim Gray |
-| #CC3030 | Red |
-| #00FF50 | Green |
-| #FFFF50 | Yellow |
-| #1050FF | Blue |
-| #FF50FF | Magenta |
-| #50FFFF | Cyan |
+| **HEX Code** | **RGB** | **Color** |
+| -------- | --- | -----|
+| #E5E5E5 | rgb(229,229,229) | Dim White |
+| #222222 | rgb(34,34,34) | Dim Gray |
+| #CC3030 | rgb(204,48,48) | Red |
+| #00FF50 | rgb(0,255,80) | Green |
+| #FFFF50 | rgb(255,255,80) | Yellow |
+| #1050FF | rgb(16,80,255) | Blue |
+| #FF50FF | rgb(255,80,255) | Magenta |
+| #50FFFF | rgb(80,255,255) | Cyan |
 
 ## Bright Colors 🎨
 
-| **HEX Code** | **Color** |
-| -------- | ----- |
-| #E5E5E5 | Dim White |
-| #555555 | Bright Black |
-| #FF3C3C | Bright Red |
-| #00FF50 | Bright Green |
-| #FFFF55 | Bright Yellow |
-| #0050FF | Bright Blue |
-| #FF50FF | Bright Magenta |
-| #00FFFF | Bright Cyan |
+| **HEX Code** | **RGB** | **Color** |
+| -------- | --- | ----- |
+| #FFFFFF | rgb(255,255,255) | White |
+| #555555 | rgb(85,85,85) | Bright Black |
+| #FF3C3C | rgb(255,60,60) | Bright Red |
+| #00FF50 | rgb(0,255,80) |Bright Green |
+| #FFFF55 | rgb(255,255,85) | Bright Yellow |
+| #0050FF | rgb(0,80,255) | Bright Blue |
+| #FF50FF | rgb(255,80,255) | Bright Magenta |
+| #00FFFF | rgb(0,255,255) | Bright Cyan |
 
 ## Selection Сolor 🎨
 
-| **HEX Code** | **Color** |
-| -------- | ----- |
-| #80555555 | Selection Color |]
+| **HEX Code** | **RGBA** | **Color** |
+| -------- | --- | ----- |
+| #80555555 | rgba(85, 85, 85, 0.5) | Selection Color |
 
 ## License 📄
 

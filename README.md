@@ -1,5 +1,7 @@
 # Metroi color theme.
 
+![logo](https://github.com/aiivy782/metroi/blob/main/metroi.png)
+
 Color theme for [Fluent Terminal](https://github.com/felixse/FluentTerminal).
 
 Made in 10 minutes, but with love 😚
